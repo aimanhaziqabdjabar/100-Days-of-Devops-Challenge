@@ -121,6 +121,8 @@ Example output of the verification command:
 ```
 siva:x:1002:1002: : /home/siva: /sbin/nologin
 ```
+
+![Step 4](day-1-crop/step-4.png)
 ---
 
 ## ✅ Result
