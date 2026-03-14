@@ -71,10 +71,11 @@ In production environments, many companies integrate this approach with **identi
 First, connect to **App Server 3** using SSH.
 
 ```bash
-ssh banner@172.16.238.12
+ssh banner@172.16.238.12 or ssh banner@stapp3
 ```
 
 After successful authentication, you will gain access to the remote Linux server where the user account will be created.
+
 
 
 ---
@@ -190,10 +191,3 @@ This challenge focuses on building practical DevOps skills through real-world in
 
 ---
 
-## 👨‍💻 Author
-
-DevOps Learner participating in the **KodeKloud 100 Days of DevOps Challenge**
-
----
-
-⭐ If you found this helpful, consider starring the repository!
