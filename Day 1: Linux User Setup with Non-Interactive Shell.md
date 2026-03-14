@@ -79,6 +79,8 @@ After successful authentication, you will gain access to the remote Linux server
 
 ![Step 1](day-1-crop/step-1.png)
 
+![Step 2](day-1-crop/step-2.png)
+
 ---
 
 ### Step 2: Create the Temporary User
